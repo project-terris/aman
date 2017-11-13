@@ -1,0 +1,29 @@
+{
+  "name": "project-terris/aman",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "require-dev":{
+    "phpunit/phpunit": "4.8.*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ben Soer",
+      "email": "ben@soernet.ca"
+    },
+    {
+      "name": "Sean Hodgies",
+      "email": "seanhodgies@gmail.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "Aman\\Models\\": "src\\models\\",
+      "Aman\\Routing\\": "src\\routing\\",
+      "Aman\\Controllers\\": "src\\controllers\\",
+      "Aman\\Contracts\\": "src\\contracts\\"
+    }
+  }
+}
