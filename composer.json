@@ -23,7 +23,11 @@
       "Aman\\Models\\": "src\\models\\",
       "Aman\\Routing\\": "src\\routing\\",
       "Aman\\Controllers\\": "src\\controllers\\",
-      "Aman\\Contracts\\": "src\\contracts\\"
+      "Aman\\Contracts\\": "src\\contracts\\",
+      "Aman\\Lib\\" : "src\\lib\\",
+      "Aman\\Lib\\Response\\": "src\\lib\\response\\",
+      "Aman\\Lib\\Request\\": "src\\lib\request\\",
+      "Aman\\Exception\\": "src\\ex\\"
     }
   }
 }
