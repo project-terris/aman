@@ -1,6 +1,9 @@
 {
   "name": "project-terris/aman",
   "type": "library",
+  "description" : "A PHP Framework for the best",
+  "keywords": ["php", "aman"],
+  "licence": "MIT",
   "require": {
     "php": ">=7.1.0"
   },
